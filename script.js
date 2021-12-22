@@ -12,7 +12,6 @@ document.getElementById('currentTime').textContent = currentTime;
 // set text and hour sent to local storage 
 
 $('.saveBtn').on('click', function() {
-    console.log(this);
     let text = $(this).siblings('.description').val();
     let time = $(this).parent().attr('id');
 
