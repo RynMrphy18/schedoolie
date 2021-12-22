@@ -32,5 +32,5 @@ A for loop goes through all 13 time blocks and gets each from local storage on r
 
 ![screencapture-file-C-Users-rmurp-Desktop-projects-schedoolie-index-html-2021-12-22-12_03_30](https://user-images.githubusercontent.com/87506145/147129498-802bdb78-e3e2-4795-8963-a435aea0beb7.png)
 
-
+Deployed Site: https://rynmrphy18.github.io/schedoolie/
 
