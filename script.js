@@ -30,7 +30,7 @@ function colorChange() {
             $(this).removeClass('present');
             $(this).removeClass('future')
         } 
-        else if (block === currentHour) {
+        else if (block == currentHour) {
             $(this).addClass('present');
             $(this).removeClass('past');
             $(this).removeClass('future');
